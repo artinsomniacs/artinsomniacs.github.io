@@ -22,6 +22,6 @@ html,body {
 }
 @media screen and (max-width: 1087px) {
   .hero.is-info .navbar-menu {
-      background-color: #a85931;
+      background-color: #91fdff;
   }
 }
